@@ -1,3 +1,3 @@
-class Table(){
+class Table(numOfBooks: Number){
 
 }
